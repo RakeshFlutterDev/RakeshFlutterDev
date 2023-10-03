@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rakesh
 
-Flutter Developer & Designer.
+Flutter Developer & UI/UX Designer.
 
 
 <!--
